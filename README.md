@@ -6,7 +6,7 @@
 - Publicar no GitHub com documentação clara
 
 ---
-
+```
 ### Estrutura do Repositório
 
 estatistica-basica-python/
@@ -20,7 +20,7 @@ estatistica-basica-python/
 ├── README.md            # documentação do projeto
 ├── LICENCE              # licença
 └── requirements.txt     # dependências (numpy, pandas, matplotlib)
-
+```
 ---
 
 ## 📑 Boas práticas adotadas
