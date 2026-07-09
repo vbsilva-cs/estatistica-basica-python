@@ -35,6 +35,6 @@ estatistica-basica-python/
 
 ## 📜 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo `[LICENCE](https://github.com/vbsilva-cs/estatistica-basica-python/blob/main/LICENSE)` para mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENCE](https://github.com/vbsilva-cs/estatistica-basica-python/blob/main/LICENSE) para mais detalhes.
 
 ---
