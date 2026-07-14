@@ -1,4 +1,4 @@
-Id,Turma,Gênero,Idade,Altura,Peso,Filhos,Fuma,Tolerância,Exercícios,Cinema,OpCine,TV,OpTV
+Id,Turma,Genero,Idade,Altura,Peso,Filhos,Fuma,Tolerancia,Exercicios,Cinema,OpCine,TV,OpTV
 1,A,F,17,1.60,60.5,2,NAO,P,0,1,B,16,R
 2,A,F,18,1.69,55.0,1,NAO,M,0,1,B,7,R
 3,A,M,18,1.85,72.8,2,NAO,P,5,2,M,15,R
